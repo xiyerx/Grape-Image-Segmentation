@@ -1,4 +1,4 @@
-This repository contains the implementation of various deep learning architectures for the segmentation of grape images. These include U-Net, SegNet, and Fully Convolutional Networks (FCNs). The performance of these models is assessed using metrics like accuracy, Dice coefficient, Intersection over Union (IoU), and focal loss.
+This repository contains the implementation of various deep learning architectures for the segmentation of grape images. These include variants of U-Net, SegNet and Fully Convolutional Networks (FCNs). The performance of these models is assessed using metrics like accuracy, Dice coefficient, Intersection over Union (IoU), and focal loss.
 
 ## Segmentation Models
 The following segmentation models are implemented:
