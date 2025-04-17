@@ -18,4 +18,5 @@ The following segmentation models are implemented:
 The dataset used for training the models is GrapesNet, which includes over 11,000 images of grape bunches captured under various conditions. A subset of these images was manually annotated to create binary masks for training. Data augmentation techniques such as zooming, flipping, and contrast changes were applied to increase the dataset size and improve model generalization.
 
 ## Results
-*attach images here*
+![image](https://github.com/user-attachments/assets/7adc0a26-c054-4a43-81cf-8dbdba73642e)
+
